@@ -1,0 +1,36 @@
+{
+  "name": "discord-24x7-music",
+  "version": "1.0.0",
+  "description": "Host your own music streaming bot that stays in a channel forever and streams music!",
+  "main": "live.jar",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "express": "^4.18.1",
+    "https": "^1.0.0",
+    "shelljs": "^0.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm install",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navaneethkm004/discord-24x7-music.git"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "bot",
+    "free",
+    "host",
+    "247",
+    "java"
+  ],
+  "author": "Navaneeth K M",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/navaneethkm004/discord-24x7-music/issues"
+  },
+  "homepage": "https://github.com/navaneethkm004/discord-24x7-music#readme"
+}
