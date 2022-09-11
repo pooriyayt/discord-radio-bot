@@ -9,7 +9,7 @@ then just click on Source-code.zip to download. Or You Can <a href="https://glit
 
 
 ### **Setup!**
-> 1- `npm i express`
+> `npm i express`
 
 
 
